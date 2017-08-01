@@ -1,5 +1,5 @@
 {
-  "name": "jublonet/codebird-js",
+  "name": "pdir/codebird-js",
   "description": "A Twitter library in JavaScript.",
   "keywords": ["Twitter","API","networking","CORS"],
   "homepage":"http://www.jublo.net/projects/codebird/js",
