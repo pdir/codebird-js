@@ -1,0 +1,20 @@
+{
+  "name": "jublonet/codebird-js",
+  "description": "A Twitter library in JavaScript.",
+  "keywords": ["Twitter","API","networking","CORS"],
+  "homepage":"http://www.jublo.net/projects/codebird/js",
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Jublo Solutions",
+      "email" "support@jublo.net",
+      "homepage": "https://github.com/olado",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/jublonet/codebird-js/issues",
+    "source": "https://github.com/jublonet/codebird-js"
+  },
+  "minimum-stability": "dev"
+}
