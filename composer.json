@@ -16,5 +16,10 @@
     "issues": "https://github.com/jublonet/codebird-js/issues",
     "source": "https://github.com/jublonet/codebird-js"
   },
+  "autoload": {
+    "classmap": [
+      "/"
+    ]
+  },
   "minimum-stability": "dev"
 }
